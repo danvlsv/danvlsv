@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**danvlsv/danvlsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- Developed and shipped VR game built in Unity (game scripting, working on physics and interactivity features, late-stage optimization)
+- Currently in 3rd term at Perm State University, majoring in Applied Mathematics and Computer Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Skills
+
+- Have experince writing in: C#, Python, HTML5, CSS
+
+- 🏗️ I’m currently working on: [TagEditor -  WinUI 3 application for editing metadata of music files](https://github.com/danvlsv/TagEditor)
+  
+- 👨‍💻 I’m currently learning: WinUI 3, .NET, EF Core, Backend and Frontend development
+
+- 🔎 Eager to learn: Graphics Programming (DirectX, Vulkan)
+
+
+
