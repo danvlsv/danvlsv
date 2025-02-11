@@ -11,7 +11,7 @@
 
 - 🏗️ I’m currently working on: [TagEditor -  WinUI 3 application for editing metadata of music files](https://github.com/danvlsv/TagEditor)
   
-- 👨‍💻 I’m currently learning: WinUI 3, .NET, EF Core, Backend and Frontend development
+- 👨‍💻 I’m currently learning: WinUI 3, .NET, EF Core, Backend and Frontend development, C++, Qt 
 
 - 🔎 Eager to learn: Graphics Programming (DirectX, Vulkan)
 
